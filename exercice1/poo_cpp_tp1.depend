@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1791916992 source:c:\users\hp\desktop\s5\poo\les_labs\poo_c++\poo_cpp_tp1\main.cpp
+	<iostream>
+	<iostream>
+	"BankAccount .h"
+
+1791916799 source:c:\users\hp\desktop\s5\poo\les_labs\poo_c++\poo_cpp_tp1\src\bankaccount .cpp
+	"BankAccount .h"
+	<iostream>
+	<iomanip>
+	<iostream>
+
+1791916727 c:\users\hp\desktop\s5\poo\les_labs\poo_c++\poo_cpp_tp1\include\bankaccount .h
+	<string>
+
